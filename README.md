@@ -7,4 +7,4 @@ Tutorial executed in an Ubuntu 20.04 VM on GCP
 
 * Install conda and configure env for this app
 * Install the dependencies using requirements.txt
-* Install redis server on the local machine
+* Install redis server in the VM [reference](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-redis-on-ubuntu-20-04)
